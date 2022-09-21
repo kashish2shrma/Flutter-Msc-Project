@@ -1,0 +1,8 @@
+for windows command :
+keytool -list -v -keystore "C:\Users\kashish\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+
+
+SHA1: 69:BE:A9:CD:49:7F:B2:C6:AA:11:8F:08:5C:22:6B:CC:B8:69:B6:5C
+
+ SHA256: 0F:C0:8C:3A:9C:94:F8:67:3D:8E:F0:33:F2:08:9C:39:7C:34:41:DF:5D:7A:BF:7A:A2:4E:B9:46:FE:D4:F1:E7
